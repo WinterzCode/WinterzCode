@@ -1,5 +1,5 @@
 # 🔷 Hello! I'm Wilson, a.k.a _WinterzCode_!👋
-Hello! I'm *__Wilson Mo__*! I'm a High School student on their Sophomore year working for a __DVS__ (Diploma of Vocational Studies) 💻 on __Information Technology Support__. I'm expected to receive a __DVS__ and a __SSD__ (Secondary School Diploma) by 2029! 🎓
+Hello! I'm *__Wilson Mo__*! I'm a High School student on their Sophomore year working for a __DVS__ (Diploma of Vocational Studies) on __Information Technology Support__ 💻. I'm expected to receive a __DVS__ and a __SSD__ (Secondary School Diploma) by 2029! 🎓
 
 ## 🔍 About me
 Here are some things you should know about me!
