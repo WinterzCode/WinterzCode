@@ -9,7 +9,7 @@ Here are some things you should know about me!
 - 💙 Favorite color is Blue
 - ♂️ Male (he/him)
 - 💻 Former and sole programmer at the FIRST robotics team <a href=https://github.com/ExpressO3986>Express-O (3986)</a> for _**FTC 2025-2026**_
-- 🔍 Team scouter for <a href=https://github.com/ExpressO3986>Express-O (3986)</a> during _**FRC 2025-2026**_
+- 🔍 Team scouter for <a href=https://github.com/ExpressO3986>Express-O (3986)</a> during <a href=https://www.thebluealliance.com/event/2026qcmo>_**FRC 2025-2026**_</a>
 - 🍣 Sushi enthusiast (I mean, why not?)
 - 🕹️ Enjoys playing games, writing stories or listening to music in their free time
 - ✨ Loves story games, especially **Deltarune**
@@ -21,7 +21,7 @@ Here are some things you should know about me!
 A few things that I am proud of (mostly robotics)!
 
 - 🏅 First __EVER__ programmer in <a href=https://github.com/ExpressO3986>Express-O (3986)</a>'s __HISTORY__ to program __an entire robot on their first year__!
-- 🔭 Successfully predicted the winning alliance of <a href=https://www.thebluealliance.com/event/2026qcmo>this FRC competition</a> based on pure observation!
+- 🔭 Successfully predicted the winning alliance of <a href=https://www.thebluealliance.com/event/2026qcmo>_**FRC 2025-2026**_</a> based on pure observation!
 - ☕ Learned intermediate-level Java in less than a year!
 
 ## 🛠️ Programming languages that I know
